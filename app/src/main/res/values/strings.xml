@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CardView</string>
+    <string name="adapterTextViewUser">Paulo Henrique</string>
+    <string name="adapterTextViewDate">Agora mesmo</string>
+    <string name="adapterImageViewDescription">Asa avião</string>
+    <string name="adapterTextViewPost">#TBT de uma viagem fantástica!!!!</string>
+    <string name="adapterButtonLike">Curti</string>
+    <string name="adapterButtonComent">Comentar</string>
+</resources>
